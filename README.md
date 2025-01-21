@@ -20,6 +20,7 @@ Click 👉🏽[here](https://drive.google.com/drive/folders/1jggSnEoq53k18JCyec8
 The data cleaning steps involved in this project:
 
 - The PROPER function is used to standardize retailer names.
+- The Retailer ID column was deteled as it adds no significant value to the analysis.
 - The short date feature is used to standardize date format.
 - Duplicates were eliminated.
 - The text “NY” in the City column was updated to "New York" for consistency.
