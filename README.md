@@ -37,6 +37,7 @@ The data cleaning steps involved in this project:
 - **Retailer Optimization:** Strengthen partnerships with top retailers like Sports Direct and Foot Locker.
 - **Market Expansion:** Explore potential in cities showing strong performance, like Charleston and Portland, to sustain growth.
 
-
+### Author
+[Lawan Opeyemi Mercy](https://www.linkedin.com/in/opeyemi-mercy-lawan-81a048276/)
 	
 
