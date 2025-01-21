@@ -1,5 +1,8 @@
 # U.S Adidas Analysis
 
+![Adidas-logo](https://github.com/user-attachments/assets/0e8e2f6d-100d-418d-94f9-54f851a8e353)
+
+
 ### Overview
 After the COVID-19 pandemic, Adidas was concerned about how much they had lost due to the lockdown, which prevented the sales of their products. The dataset includes information about Retailers, Retailers ID, Invoice Date, Region, State, City, Product, Price Per Unit, Units Sold, Revenue, Sales Method.
 
