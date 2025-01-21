@@ -26,6 +26,11 @@ The data cleaning steps involved in this project:
 - The excess spaces in the Product column were trimmed.
 - The dollar signs were removed from the Revenue column.
 
+    Uncleaned Data      |       Cleaned Data
+  :--------------------:|:---------------------:
+  ![Picture1](https://github.com/user-attachments/assets/826b9ed4-c091-4c66-b3af-7fd338b9f4c4)|![Picture2](https://github.com/user-attachments/assets/cf2807c0-ca33-4c12-bdcf-b37cba142593)
+
+
 ### Insights Based on the Dashboard
 - **Revenue and Units Sold:** total revenue generated is approximately $95 million, with 2,016,512 units sold, indicating a high average revenue per unit.
 - **Top Retailers:** Sports Direct is the leading retailer, contributing significantly to sales, followed by Foot Locker and West Gear. Amazon, despite being a global e-commerce giant, ranks lower in revenue compared to specialized retailers.
